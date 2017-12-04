@@ -1,0 +1,4 @@
+This file has content to get copied.
+
+I am Krishna, writing the code to copy the content.
+However, you can just look at my code and can write your own code to copy the file.
