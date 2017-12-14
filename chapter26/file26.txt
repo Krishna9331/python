@@ -1,0 +1,3 @@
+This is test file.
+It is written as part of correct the program test.
+I would love to fix many such files, will you?
